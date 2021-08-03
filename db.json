@@ -2,11 +2,28 @@
     "dragons":
     [{
         "id": 1,
-        "title": "Hola",
-        "body": "hola"
+        "title": "Furia Nocturna",
+            "body": "Es una especie de Dragón de Clase Embestida que sólo aparece en la adaptación cinematográfica del libro "Cómo Entrenar a tu Dragón"."
     },{
         "id": 2,
-        "title": "adios",
-        "body": "adios"
-    }]
+        "title": "MuerdeHuevos",
+        "body": "El Muerdehuevos es un dragón robusto y corpulento, que se sostiene con cuatro patas igual de robustas y fuertes. Su cola es larga pero no termina en ninguna aleta ni tiene espinas. En su cabeza, posee una cresta de nueve cuernos; cuatro abajo, de color negro, y cinco arriba de color amarillo."
+    },{
+        "id": 3,
+        "title": "RompeHuesos",
+        "body": "Este dragón pasa toda su vida buscando los huesos perfectos para construir su armadura. Algunas veces los huesos que busca son para realizar alguna acción básica, como el rugido."
+    },{
+        "id": 4,
+        "title": "TerrorNocturnoRojo",
+        "body": "Son dragones exactamente iguales a los Terrores Nocturnos. Pero a diferencia de los comunes, estos son (como dice el nombre) rojos con todo el vientre y la parte de debajo de la cabeza y la cola grisácea. Desde los cuernos delanteros hasta la cola tienen todo el lomo anaranjado."
+    },{
+        "id": 5,
+        "title": "DeathlyGaleslash",
+        "body": "El huevo del Deathly Galeslash es de tamaño mediano y ovalado, con patrones de escamas por todas partes. Tiene varias púas grises que sirven de protección. El huevo es principalmente de color púrpura, con algunas manchas azules y rosadas."
+    },{
+        "id": 6,
+        "title": "ColaQuemante",
+        "body": "Es un dragón alargado, de color naranja con detalles rojos y amarillo o verde claro con tonos más oscuros. Al igual que el Cortatormentas, posee 4 alas (pero dispuestas de diferente forma), el par cerca de las patas delanteras son mas pequeñas que el par cerca de las patas traseras."
+    }
+    ]
 }
