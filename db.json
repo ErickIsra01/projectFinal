@@ -1,12 +1,12 @@
-[
-  {
-    "id": 1,
-    "title": "Hola",
-    "body": "hola"
-  },
-  {
-    "id": 2,
-    "title": "adios",
-    "body": "adios"
-  }
-]
+{
+    "dragons":
+    [{
+        "id": 1,
+        "title": "Hola",
+        "body": "hola"
+    },{
+        "id": 2,
+        "title": "adios",
+        "body": "adios"
+    }]
+}
